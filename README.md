@@ -13,6 +13,6 @@ Profile README for Jose Coreas
   Dynamic tarot-spread generator with user-feedback loops and recommendation engine.
 
 ## 🔹 Contact & Links
-- 🔗 [LinkedIn](https://linkedin.com/in/jose-coreas)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jose-coreas-a416b962/)  
 - 🎥 Demo screencasts: *link to Loom or YouTube*  
 - 🌐 Live site/blog: *your personal site URL*
