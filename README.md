@@ -2,7 +2,7 @@
 Profile README for Jose Coreas
 # Jose Coreas
 
-**AWS/DC Summit Production Assistant · PM & Ops Manager · AI/ML Enthusiast**
+**PM & Ops Manager · AI/ML Enthusiast**
 
 ## 🔹 Key Projects
 - **[Synthetic User Pipeline](https://github.com/josec1988/synthetic-users-1000)**  
